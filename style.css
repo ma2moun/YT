@@ -21,3 +21,12 @@ padding: 30px;
     background-color: aqua;
 }
 
+/* You can try the combinators below this line:  */
+/* Example: */
+
+/* 
+.parent .son 
+{
+background-color: green;
+}
+*/
