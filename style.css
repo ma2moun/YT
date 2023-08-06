@@ -1,0 +1,23 @@
+.parent
+{
+width: 500px;
+height: 350px;
+background-color: yellow;
+padding: 30px;
+}
+
+.son
+{
+    width: 400px;
+    height: 290px;
+    background-color: red;
+    padding: 20px;
+}
+.grandson
+{
+    width: 390px;
+    height: 60px;
+    margin:5px;
+    background-color: aqua;
+}
+
